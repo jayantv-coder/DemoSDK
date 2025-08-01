@@ -1,2 +1,2 @@
 # DemoSDK
-Its only for testing purpos
+Its only for testing purpose
