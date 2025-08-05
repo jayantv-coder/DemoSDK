@@ -1,0 +1,6 @@
+framework module MoSdk {
+  umbrella header "MoSdk.h"
+  export *
+
+  module * { export * }
+}
