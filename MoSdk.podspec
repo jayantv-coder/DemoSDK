@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/jayantv-coder/MoSdk'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'jayantv-coder' => 'jayant.v@samcomtechnobrains.com' }
-  s.source           = { :git => "https://github.com/jayantv-coder/MoSdk.git", :tag => "#{spec.version}" }
+  s.source           = { :git => 'https://github.com/jayantv-coder/MoSdk.git', :tag => "#{s.version}" }
   s.vendored_frameworks = 'MoSdk.xcframework'
   s.platform         = :ios, '13.0'
 end
